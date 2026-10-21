@@ -1,0 +1,32 @@
+# ---- 敏感信息：绝对不能进仓库 ----
+mcp-config.json
+*.token
+.env
+.env.*
+secrets/
+**/secrets/**
+
+# 官方原始返回样本可能含个人账户数据，不随仓库分发
+docs/samples/stores_*.json
+docs/samples/stores_*.txt
+docs/samples/price_*.json
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# ---- 编辑器 / 系统 ----
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ---- 临时 ----
+*.log
+*.tmp
+*.bak
