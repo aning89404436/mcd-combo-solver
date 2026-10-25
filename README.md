@@ -13,6 +13,13 @@
 
 </div>
 
+> ⭐ **本项目正在参加 [麦当劳程序员创意开发大赛](https://github.com/M-China/mcd-developer-innovation-challenge)，排名只按 GitHub Star 数计。**
+>
+> 如果「省 ¥1、热量降 40%」对你有用，麻烦点一下右上角的 **Star** 支持一下 👉
+> [`aning89404436/mcd-combo-solver`](https://github.com/aning89404436/mcd-combo-solver)（只需要点一下，不用注册什么）
+>
+> 下面是**实测**数据，不是 demo 演示：价格用官方 `calculate-price` 接口逐项核过。
+
 ---
 
 ## 它解决的问题
